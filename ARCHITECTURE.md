@@ -24,8 +24,10 @@ graph TD
     subgraph "Data Structures"
         VM -.->|Uses| Config[HFConfig]
         VM -.->|Uses| Result[VRAMResult]
+        VM -.->|Uses| SearchRes[HFModelSearchResponse]
         Calc -.->|Produces| Result
         HF -.->|Produces| Config
+        HF -.->|Produces| SearchRes
     end
 
     style App fill:#f9f,stroke:#333,stroke-width:2px
