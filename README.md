@@ -7,7 +7,7 @@ That's why I built this.
 **Hugging Models** is a lightweight, native macOS menu bar app that lets you search Hugging Face, explore trending models, and instantly calculate the estimated VRAM required to run them *before* you nuke your system. 
 
 <p align="center">
-  <img src="HuggingModels/AppIcon.icns" width="128" alt="Hugging Models Icon">
+  <img src="HuggingModels/AppIcon.png" width="128" alt="Hugging Models Icon">
 </p>
 
 ## ✨ Features
