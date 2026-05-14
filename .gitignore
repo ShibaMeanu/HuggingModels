@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Swift / Build
+build/
+DerivedData/
+.build/
+
+# Package Managers
+.swiftpm/
+.conan/
+vendor/
+
+# User-specific
+*.swp
+*.lock
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# Local Environment
+.env
+.env.local
