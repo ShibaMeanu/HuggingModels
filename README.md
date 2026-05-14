@@ -39,4 +39,4 @@ It's a clean, standard SwiftUI MVVM architecture. If you want to poke around, st
 
 ## 📝 License
 
-Do whatever you want with it. Just don't blame me if your GPU still catches fire. (But seriously, MIT License).
+This project is licensed under the [Apache License 2.0](LICENSE). Do whatever you want with it, just don't blame me if your GPU still catches fire.
